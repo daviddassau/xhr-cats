@@ -1,0 +1,18 @@
+{
+	"cats": [{
+			"name": "Fluffy",
+			"color": "Green",
+			"url": "https://i.ytimg.com/vi/-OJMIqVrON0/maxresdefault.jpg"
+		},
+		{
+			"name": "Balls",
+			"color": "Gray",
+			"url": "https://vignette3.wikia.nocookie.net/animal-jam-clans-1/images/3/34/Good-names-male-gray-cat_c973a4d20153d374_i2Zi0RewT8e0NIZzcAoj1g.jpg/revision/latest?cb=20170127000422"
+		},
+		{
+			"name": "Titty-Caca",
+			"color": "Hairless",
+			"url": "https://featuredcreature.com/wp-content/uploads/2011/12/DSC_0156.jpg"
+		}
+	]
+}
