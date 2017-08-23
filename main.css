@@ -1,0 +1,27 @@
+body {
+	background-color: #666666;
+}
+
+h1 {
+	text-align: center;
+}
+
+#kat-koral {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.cat {
+	margin: 10px;
+	border: dashed 7px pink;
+}
+
+.catName {
+	text-align: center;
+}
+
+.catColor {
+	text-align: center;
+}
